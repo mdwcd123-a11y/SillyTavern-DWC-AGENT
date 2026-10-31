@@ -1,0 +1,13 @@
+{
+  "display_name": "Sillytavern DWC AGENT V1.0",
+  "loading_order": 1000,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "mdwcd123-a11y",
+  "version": "1.0.0",
+  "generate_interceptor": "characterAgentIntercept",
+  "homePage": "https://github.com/mdwcd123-a11y/SillyTavern-DWC-AGENT",
+  "description": "角色独立工具循环与版本化记忆 / Per-character agent loops and versioned memory."
+}

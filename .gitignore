@@ -1,0 +1,16 @@
+node_modules/
+test-output/
+coverage/
+dist/
+backups/
+data/
+*.log
+.env
+.env.*
+secrets.json
+settings.json
+config.yaml
+*.zip
+*.tmp
+.DS_Store
+Thumbs.db

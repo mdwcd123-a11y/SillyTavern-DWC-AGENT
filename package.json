@@ -1,0 +1,1 @@
+{"name":"sillytavern-dwc-agent","version":"1.0.0","description":"Per-character agent loops and versioned memory for SillyTavern","license":"AGPL-3.0-only","type":"module","private":true,"scripts":{"test":"node --experimental-vm-modules --test tests/*.test.mjs"}}
